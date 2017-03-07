@@ -1,1 +1,1 @@
-# Tenth exercise in node-milestones/foundations
+# Exercies 9 in node-milestones/foundations
